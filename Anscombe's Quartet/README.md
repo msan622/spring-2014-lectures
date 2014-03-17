@@ -3,7 +3,12 @@ Anscombe's Quartet
 
 ![Anscombe's Quartet](anscombe.png)
 
-Source Code
+Slides
+------------------------------
+
+- [Anscombe's Quartet](https://drive.google.com/file/d/0BxYofk0iB_upanNETXU2RVZlSmc/edit?usp=sharing)
+
+Source
 ------------------------------
 
 - [`anscombe.r`](anscombe.r)
