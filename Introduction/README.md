@@ -1,6 +1,9 @@
 Introduction
 ==============================
 
+![Nightingale's Rose](nightingales_rose.jpg)  
+Image from http://www.economist.com/node/10278643
+
 Slides
 ------------------------------
 
