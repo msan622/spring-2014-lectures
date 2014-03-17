@@ -7,7 +7,7 @@ Image from http://www.economist.com/node/10278643
 Slides
 ------------------------------
 
-- [Terminology](Terminology.pdf)
+- [Terminology](https://drive.google.com/file/d/0BxYofk0iB_upMVQyUmpoYk1lNVk/edit?usp=sharing)
 
 Videos
 ------------------------------
