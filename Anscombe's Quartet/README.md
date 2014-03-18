@@ -6,7 +6,7 @@ Anscombe's Quartet
 Slides
 ------------------------------
 
-- [Anscombe's Quartet](https://drive.google.com/file/d/0BxYofk0iB_upanNETXU2RVZlSmc/edit?usp=sharing)
+- [Motivation](https://drive.google.com/file/d/0BxYofk0iB_upeWVkazNlemx3T1k/edit?usp=sharing)
 
 Source
 ------------------------------
@@ -25,3 +25,4 @@ References
 
 - [Anscombe's Quartet (Wikipedia)](http://en.wikipedia.org/wiki/Anscombe's_quartet)
 - [The Visual Difference – R and Anscombe’s Quartet](http://blog.ouseful.info/2011/08/30/the-visual-difference-%E2%80%93-r-and-anscombe%E2%80%99s-quartet/)
+- [Anscombe’s Quartet (Eager Eyes)](http://eagereyes.org/criticism/anscombes-quartet)
