@@ -1,0 +1,23 @@
+Basic Charts
+==============================
+
+![Bar Chart](economics-bar.png)
+
+Slides
+------------------------------
+
+- [Basic Charts](#)
+
+Source
+------------------------------
+
+- [`basic-economics.r`](basic-economics.r) 
+  Demonstrates a scatterplot, line chart, area chart, bar chart, box plot, multi-line chart, and small multiples line chart.
+
+- [`basic-movies.r`](basic-movies.r)
+  Demonstrates a histogram, stacked bar chart, and stacked area chart.
+
+References
+------------------------------
+
+- Pending
