@@ -6,7 +6,7 @@ Basic Charts
 Slides
 ------------------------------
 
-- [Basic Charts](#)
+- [Basic Charts](https://drive.google.com/file/d/0BxYofk0iB_updWoyVVFnM2pKWVk/edit?usp=sharing)
 
 Source
 ------------------------------
