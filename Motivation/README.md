@@ -17,7 +17,7 @@ Source
 
   ```
   library(devtools)
-  source_url("https://raw.github.com/msan622/lectures/master/Anscombe's%20Quartet/anscombe.r")
+  source_url("https://raw.githubusercontent.com/msan622/lectures/master/Motivation/anscombe.r")
   ```
 
 References
