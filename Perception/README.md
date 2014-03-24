@@ -2,7 +2,7 @@ Perception
 ==============================
 
 ![Rotating Snakes](rotsnake8.gif)  
-Image from <http://www.ritsumei.ac.jp/~akitaoka/rotsnakee.html>
+Image from <http://www.ritsumei.ac.jp/~akitaoka/rotsnakee.html>. See [The Rotating Snakes Are All In Your Mind](http://www.npr.org/blogs/13.7/2014/03/24/293740555/the-rotating-snakes-are-all-in-your-mind) from NPR for a recent article on this illusion.
 
 Slides
 ------------------------------
