@@ -7,7 +7,8 @@ Image from <http://www.ritsumei.ac.jp/~akitaoka/rotsnakee.html>
 Slides
 ------------------------------
 
-- Pending
+- [Perception](https://drive.google.com/file/d/0BxYofk0iB_upREVRSWFNRHlEcEE/edit?usp=sharing)
+- [Optical Illusions](https://drive.google.com/file/d/0BxYofk0iB_upQl82S3ZacXQ5bHM/edit?usp=sharing)
 
 Videos
 ------------------------------
