@@ -17,7 +17,3 @@ Source
 - [`basic-movies.r`](basic-movies.r)  
   Demonstrates a histogram, stacked bar chart, and stacked area chart.
 
-References
-------------------------------
-
-- Pending
