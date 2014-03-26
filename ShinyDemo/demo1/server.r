@@ -150,4 +150,4 @@ shinyServer(function(input, output) {
 # runApp()
 
 # To run this remotely, use:
-# runGist("https://gist.github.com/19388fcc21fa22f00fd4")
+# runGitHub("lectures", "msan622", "ShinyDemo/demo1")

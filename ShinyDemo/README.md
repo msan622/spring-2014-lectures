@@ -1,4 +1,4 @@
-Using R and Shiny
+Shiny Demo
 ==============================
 
 ![Bar Chart](barchart.png)
@@ -15,4 +15,5 @@ References
 - [Shiny Package](http://www.rstudio.com/shiny/)
 - [Shiny Application Layout Guide](https://github.com/rstudio/shiny/wiki/Shiny-Application-Layout-Guide)
 - [Show Me Shiny](http://www.showmeshiny.com/)
-- 
+
+
