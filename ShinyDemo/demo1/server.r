@@ -150,4 +150,4 @@ shinyServer(function(input, output) {
 # runApp()
 
 # To run this remotely, use:
-# runGitHub("lectures", "msan622", "ShinyDemo/demo1")
+# runGitHub("lectures", "msan622", subdir = "ShinyDemo/demo1")
