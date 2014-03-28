@@ -9,7 +9,7 @@ levels(iris$Species) <- sapply(levels(iris$Species), capitalize)
 
 getPlot <- function(highlight) {
     p <- ggplot(iris, aes(x = Sepal.Length, y = Sepal.Width, color = Species))
-    p <- p + geom_point(size = 4, alpha = 0.4, position = "jitter")
+    p <- p + geom_point(size = 4, alpha = 0.8, position = "jitter")
     
     p <- p + xlab("Sepal Length")
     p <- p + ylab("Sepal Width")

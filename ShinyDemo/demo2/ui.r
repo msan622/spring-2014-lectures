@@ -12,7 +12,7 @@ shinyUI(
     # as a grid with rows and 12 columns.
     fluidPage(
         # These will take up the entire row.
-        titlePanel("Movie Genres"),
+        headerPanel("Movie Genres"),
         plotOutput("barPlot"),
         # Add an horizontal line divider.
         hr(),
