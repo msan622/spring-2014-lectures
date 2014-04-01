@@ -1,18 +1,18 @@
 Interactivity
 ==============================
 
-![Image](#)  
-Image from <#>. 
+![M.C. Escher](escher.gif)  
+Image from <http://www.sigchi.org/chi95/Electronic/documnts/papers/jl_bdy.htm>. 
 
 Slides
 ------------------------------
 
-- Pending
+- [Interactivity](https://drive.google.com/file/d/0BxYofk0iB_upWnFkc0VHM0oxNDA/edit?usp=sharing)
 
-Videos
+Demos
 ------------------------------
 
-- Pending
+See the demos in [ShinyDemo](../ShinyDemo). 
 
 References
 ------------------------------
