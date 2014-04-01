@@ -1,9 +1,6 @@
 Interactivity
 ==============================
 
-![M.C. Escher](escher.gif)  
-Image from <http://www.sigchi.org/chi95/Electronic/documnts/papers/jl_bdy.htm>. 
-
 Slides
 ------------------------------
 
