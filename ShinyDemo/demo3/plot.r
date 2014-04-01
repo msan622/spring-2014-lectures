@@ -62,6 +62,9 @@ p <- p + theme(legend.justification = c(0, 0))
 p <- p + theme(legend.position = c(0, 0))
 p <- p + theme(legend.background = element_blank())
 
+# Set a specific aspect ratio
+p <- p + coord_fixed(ratio = 1)
+
 # Try to highlight only one species
 
 # First get palette from color brewer

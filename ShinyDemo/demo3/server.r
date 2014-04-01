@@ -30,6 +30,8 @@ getPlot <- function(highlight) {
     p <- p + theme(legend.position = c(0, 0))
     p <- p + theme(legend.background = element_blank())
     
+    p <- p + coord_fixed(ratio = 1)
+    
     palette <- brewer_pal(type = "qual", palette = "Set1")(3)
     species <- levels(iris$Species)
     palette[which(!species %in% highlight)] <- "#EEEEEE"
@@ -53,9 +55,13 @@ shinyServer(function(input, output) {
 #         }
     })
     
-    output$scatterplot <- renderPlot({
+    # Can control size if want
+    output$scatterplot <- renderPlot(
+      {
         print(getPlot(getHighlight()))
-    })
+      }, 
+      width = 600,
+      height = 600)
 })
 
 # DISCUSSION:
