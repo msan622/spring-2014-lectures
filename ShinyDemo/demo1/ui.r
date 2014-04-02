@@ -38,7 +38,7 @@ shinyUI(
             ),
 
             # Add a download link
-            HTML("<p align=\"center\">[ <a href=\"\">download source</a> ]</p>")
+            HTML("<p align=\"center\">[ <a href=\"https://github.com/msan622/lectures/tree/master/ShinyDemo/demo1\">download source</a> ]</p>")
         ),
 
         # Setup main panel.
