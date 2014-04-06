@@ -3,11 +3,15 @@ library(ggplot2)
 
 data(iris)
 
+# replace the period in the column names and use those
+# as the sort choices in the ui
 sortChoices <- gsub("\\.", " ", colnames(iris))
 
+# this is using shiny version 0.9+
 shinyUI(fluidPage(
     titlePanel("Iris Dataset"),
     plotOutput("heatmap"),
+    div("Low values are green, mid values are white, and high values are purple.", align = "center"),
     wellPanel(fluidRow(
         column(6,
             sliderInput(
