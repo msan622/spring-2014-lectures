@@ -6,7 +6,7 @@ Text Data Visualization
 Slides
 ------------------------------
 
-- [Text Data Visualization](#)
+- [Text Data Visualization](https://drive.google.com/file/d/0BxYofk0iB_upVmNwZmo5WkpHN1k/edit?usp=sharing)
 
 Demos
 ------------------------------
