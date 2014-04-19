@@ -24,11 +24,14 @@ p <- p + scale_deaths()
 p <- p + theme_legend()
 p <- p + theme_guide()
 
+# squarify grid (1 month to 1000 deaths)
+# p <- p + coord_fixed(ratio = 1 / 1000)
+
 # CREATE FACET PLOT ###################
 # p <- p + facet_wrap(~ year, ncol = 2)
 # p <- p + theme(legend.position = "none")
 
-# squarify grid (1 month to 1000 deaths)
-p <- p + coord_fixed(ratio = 1 / 1000)
+# CREATE STAR-LIKE PLOT ###############
+# p <- p + coord_polar()
 
 print(p)
