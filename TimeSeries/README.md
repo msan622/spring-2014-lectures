@@ -1,7 +1,7 @@
 Time Series Visualization
 ==============================
 
-![]()
+![Heatmap](basic/heatmap.png)
 
 Slides
 ------------------------------
