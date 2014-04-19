@@ -1,7 +1,7 @@
-Perception
+Dimensionality
 ==============================
 
-![Perceptual Ocean](perceptualocean.jpg)
+![Perpetual Ocean](perpetualocean.jpg)
 
 Slides
 ------------------------------
