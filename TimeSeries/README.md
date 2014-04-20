@@ -11,20 +11,23 @@ Slides
 Demos
 ------------------------------
 
-- [`area.r`](basic/area.r)  
+- [`basic/area.r`](basic/area.r)  
   Line and Stacked Area Plots
 
-- [`heat.r`](basic/heat.r)  
+- [`basic/heat.r`](basic/heat.r)  
   Heatmap and Circle View
 
-- [`multi.r`](basic/multi.r)  
+- [`basic/multi.r`](basic/multi.r)  
   Multi-Line and Star Plots
 
-- [`data.r`](basic/data.r)  
+- [`basic/data.r`](basic/data.r)  
   Manipulating Time Series Data
 
-- [`pretty.r`](basic/pretty.r)  
+- [`basic/pretty.r`](basic/pretty.r)  
   Scale and Theme Customization
+
+- ['animated/*.r'](animated/)  
+  Animated Time Series
 
 References
 ------------------------------
