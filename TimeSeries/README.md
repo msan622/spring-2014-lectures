@@ -26,7 +26,7 @@ Demos
 - [`basic/pretty.r`](basic/pretty.r)  
   Scale and Theme Customization
 
-- ['animated/*.r'](animated/)  
+- [`animated/*.r`](animated/)  
   Animated Time Series
 
 References
