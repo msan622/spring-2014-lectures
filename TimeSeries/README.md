@@ -6,7 +6,7 @@ Time Series Visualization
 Slides
 ------------------------------
 
-- [Time Series Visualization]()
+- [Time Series Visualization](https://drive.google.com/file/d/0BxYofk0iB_upVFlFUmt6bE90aTQ/edit?usp=sharing)
 
 Demos
 ------------------------------
