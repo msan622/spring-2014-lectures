@@ -1,5 +1,6 @@
 require(ggplot2)
 require(shiny)
+require(scales)
 
 # create RELATIVE path to data
 # uses proper slashes for operating system
@@ -15,7 +16,9 @@ plotOverview <- function(start = 1974, num = 12) {
     ymin <- 1200
     ymax <- 4000
     
-    p <- ggplot(lungdata, aes(x = series, y = deaths))
+    lungdata <- subset(lungmelt, variable == "deaths")
+    
+    p <- ggplot(lungdata, aes(x = series, y = value))
 
     p <- p + geom_rect(
         xmin = xmin, xmax = xmax,
@@ -25,7 +28,7 @@ plotOverview <- function(start = 1974, num = 12) {
     p <- p + geom_line()
     
     p <- p + scale_x_continuous(
-        limits = range(series),
+        limits = range(lungdata$series),
         expand = c(0, 0),
         breaks = seq(1974, 1980, by = 1))
     
